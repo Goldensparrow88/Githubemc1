@@ -1,0 +1,432 @@
+ 
+Electronic Records and Electronic Signatures
+
+A backend application refers to the server-side component of a system that manages the core logic, data processing, storage, and other essential operations that support the front-end interface.
+
+In contrast, a background application is a program or process that runs behind the scenes without direct user interaction. It typically handle
+
+Dir. DDIT ISC SecOps IAM AD
+•
+ISC Access Management & Authentication
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+Peer review is a process used to evaluate the quality, validity, and reliability of work—most commonly academic research, scientific studies, or professional documents—before it is published or accepted.
+
+In professional or workplace contexts, peer review can also refer to colleagues reviewing each other’s work (like technical documents, reports, or code) to ensure quality, consistency, and correctness before it reaches a wider audience.
+
+👉 In short: Peer review is a quality-control process where experts check each other’s work to ensure it meets required standards before acceptance or publication.
+
+
+
+Title: Combined Requirement Specifications for CNAPP Wiz Deployment CNAPP (URS/FS/CS/DS)
+Doc. ID: TIS_PUCS_URS_001
+Doc. Version: 1.0
+Classification: Business Use Only
+
+
+
+>>>>>>>>>>>>>
+
+Signature round is completed for ISC_RMB_GU_001 document for ISC SecOps - Antivirus / Anti-Malware Service - Lifecycle Documentation. 
+
+I have initiated Tech SME review for  AD_WI_066 with Pradeep Patil Kumar. 
+
+Initiated Tech SME review for ISC_IAM_CDS_WI_002 
+
+Currently working on AD_WI_070
+
+Updated the Tech SME inputs provided Pradeep patil kumar. and going to share for OQM review for AD_WI_069. Arpit
+@Nandakumar, Navin   the template shared by Arpit for Architect approvals for permissions,  do you have that in the WI.  If not then get that added.
+
+
+Working on the Tech SME feedback for ISRM_DM_URS_001 document.  
+
+ 
+
+ISRM_TOS_WI_028
+
+ISRM_DM_AH_001
+
+Common Information Security Threats
+
+Password Security 
+
+Two-Factor Authentication (2FA)
+
+Malware Protection
+
+Antivirus and Software Updates
+
+Email & Wifi Security
+
+
+
+
+I'm working on RMB_GU with Konrad and going into initiate Tech SME review. RMB Revocation Automation Guide.
+
+Working on Tech SME inputs from Pradeep Patilkumar. and going to reshare for confirmation. 
+
+
+OQM review completed for TOS_WI_061 and Initiated signature round, signed by Author. 
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+Initiated Tech SME review for AD_WI_066 and 
+
+I'm currently Working on AD_WI_069. 
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Access Revoke List
+
+ISC Identity and Access Management (IAM) Services
+
+ISC SecOps - Cybertools - Lifecycle Documentation (Restricted)
+
+ISC SecOps - Lifecycle Documentation I' have access only to this Repo
+
+Thanks for the update 
+
+
+I hope you're doing well! I wanted to quickly check if you’d be open to sharing a brief appreciation or feedback email regarding our documentation activities for Cybertools. It would really help us internally to highlight the value we’ve delivered and continue improving our services and also helpful for me during Appraisal.  
+
+If it’s convenient for you, even a short note would be great.
+
+Thanks so much in advance, and Kindly let me know if you need any details from my side.
+
+
+
+
+ 
+Follow-Ups: 
+
+  
+   
+Initiated Tech SME review for WAMS_WI_006 & CDS_WI_002.  
+Initiated Tech SME review for WAMS_WI_004/005.  
+OQM review is completed for WAMS_WI_003 and Initiated signature round. 
+Initiated Tech SME review for ISC_IAM_CDS_WI_002 with Upanisha. >> Pending. 
+>>>>>>>>>>>>>>>>>>>>>>
+ 
+
+
+
+
+
+ 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+I'm going to work on other document on WAMS_WI shared by Nisha
+
+Working on AD_WI_070.  
+
+Working on OQM comments for AD_URS_011, perhaps need to check with Shashi on this. 
+
+Sent a reminder mail to Shreya SharmaTech SME feedback for ISRM_DM_URS_001
+
+ 
+
+Click on windows search-> Type settings --> Update and security --> Windows Update->check for updates-> Please check if the windows 11 message appearing, if not let us know for further troubleshoot.
+
+
+
+
+ To facilitate the migration, the current GIS repositories will be frozen from 25th August 2025. During this period, all users will have read-only access. You will be able to view and download documents, but editing or publishing will be restricted.
+
+We kindly request that no changes or uploads be made to the current repository until the migration is complete
+ 
+
+Review the listed documents and confirm whether any should be retired, as some may no longer be valid but still remain in the repository.
+If your IQ documents have already been migrated to the PROTON tool, let us know if we can retire the IQ’s
+
+>>>>>>>>Follow ups 
+
+Tech SME confirmation from Tharun for   (1), (1.1), (2.2), (3.1), (3.2),(3.5), (3.9),(3.11), (3.12), (4) & (6.4). 
+
+
+
+Discussed with Shreya, Sharma for Tech SME feedback for ISRM_DM_URS_001, she told I'll be sharing feedback 
+
+ISRM_TOS_WI_006
+
+>>>>>. Yet to start. 
+ 
+Initiated Tech  SME review for AD_WI_044:
+Initiated Tech  SME review for AD_WI_070  
+
+
+Viswambharan, Shashi
+
+>>>>>>>>. Upadhyay, Jaikesh  Windows - Cribl Onboarding
+
+WORK INSTRUCTION for Managing and Updating Secrets Keys - Sentinel
+
+ISRM_TOS_WI_006
+
+>>>>>>>.
+
+Most of the the OQM comments updated for TOS_WI_061 from docmentation prespective and shared with Mayank which requirents inputs Tech SME for OQM comments.
+
+
+Initiated Tech SME review for Updated Sections for TOS_061: 2.2/3.4, 3.1. : Mayank.
+
+>>>>>>>>>>>>>>
+
+Assoc. Dir. DDIT ISC NetSec, OT & Config. Governance
+•
+ISC NetSec Governance
+
+
+Assoc. Dir. DDIT ISC Sec. Arch. OT
+•
+ISC Functional Security Architecture
+
+
+Link is not working https://pam.novartis.intra
+
+https://<hostname>:<ssl_port>/console
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+6.5, 5.1, 3.1.1
+
+
+
+
+
+>>> TOS_061
+
+Sec 1, 2.2, 3.1, 3.2, 3.4, 3.5, 3.6, 3.8, (Change referenc doc ID/Link in 3.9, 3.11, 3.12).
+
+>>> TOS_028: Updated the link in 1, 1.1, 2.2, 3.1, 3.2, VMlink 3.11, 
+
+Replace ISRM as ISC via out the document. 
+
+
+
+
+Request Role-based Access to SNOW
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Process Management Community of Practice channels
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.>>...
+
+I've attended the Adonis Training Awarness Session.
+
+Discussed about Business Process Diagram:
+
+How we can define the pool name and matching whatever doc type title.
+
+Description can be provided as per document given. 
+
+What about Manual. Semi-Automated & Automated. 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.
+
+I
+
+
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> linda.lemieux@mindwire.ca with 
+
+What is AWS?
+
+Amazon web service is an online platform that provides scalable and cost-effective cloud computing solutions. AWS is a broadly adopted as clo
+ud computing platform that offers several on-demand operations like computing power, database storage, content delivery, etc., to help corporates scale and grow.  
+Benefits: With AWS, you can receive a virtual environment that lets you load the software and services based on your application requires. Millions of customers - prefers AWS to lower costs, become more agile, and innovate faster.
+>>>>>>>>>>..
+
+What is Cloud computing & it’s three types?
+
+Cloud computing is an on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases. The main three types of cloud computing are public cloud, private cloud, and hybrid cloud. 
+
+What is Azure/SecOps?
+
+Azure is a cloud computing platform and an online portal that allows you to access and manage cloud services and resources provided by Microsoft. These services and resources include storing your data and transforming it, based on your requirements. 
+Role of Azure: Microsoft Azure is a cloud computing platform that enables customers to control a range of cloud resources and services, including data transformation, data storage, and many more.
+
+Cloud infrastructure refers to the components and elements that are required to provide cloud computing. This includes computing power, networking, storage, and an interface that enables users to access virtualized resources. 
+
+>>>> (SecOps)
+
+Security operations (SecOps) is a business practice that combines IT operations and internal information security to improve collaboration and reduce risks. It involves a team of security and IT professionals who monitor threats and evaluate risk across an organization.
+
+Role of SecOps is to reduce cyber risks while maintaining IT performance by aligning security and operational goals. 
+
+SOC stands for Security Operations Center, which is a centralized unit that monitors and manages an organization's security. SOCs are staffed by security professionals who are trained to identify, respond to, and mitigate security threats
+
+>>>SOC in cyber security?
+About Security Operations Center (SOC) A Security Operation Center (SOC) is a function within Cyber Command which employs people, processes, and technology to continuously monitor the security posture and potential threats to the State, while preventing, detecting, analyzing, and responding to cybersecurity incidents.
+
+>>>>>>>
+
+ChatGPT is an Artificial Intelligence (AI) chatbot that uses natural language processing to create humanlike conversational dialogue. ChatGPT offers many functions in addition to answering simple questions. For Ex: ChatGPT can compose essays, do math, and even coding for you. ChatGPT works by utilizing generative AI, allowing to produce unique responses by understanding context and intent and also owned by OpenAI LP.
+
+Project Worked on So Far
+
+HCLTech
+
+Novartis CloudNow Portal: It’s automation of resource creation and account provisioning happens by triggering the Jenkins pipelines through the Novartis CloudNow Portal. Also, this portal provides insights of various Automation Metrics and KPI’s that are implemented by various Engineering and Automation teams. CloudNow is accessible to the End-User based on authorization with approvals through User entitlements.
+Jenkins is a Java-based open-source automation platform with plugins designed for continuous integration. It is used to continually create and test software projects, making it easier for developers and DevOps engineers to integrate changes to the project and for consumers to get a new build.
+
+LTI
+
+Lumin is an Artificial Intelligence power decision product which is designed for everyone to analyze data and share insights within seconds. Lumin instantaneously spots anomalies, trends, patterns, and expose insights on why something happened, what changed, what is the impact, and what will come next without relying on data experts or complex coding skills. 
+       With Lumin, you can 
+•	Ask a general question related to the underlying data and Lumin automatically generates real-time information for data relationships.
+•	Self-set up your data and perform advanced analytics in minutes.
+•	Share insights with multiple team members in a secure and collaborative environment.
+
+MENTIS 
+Static Data Masking provides Industry-leading solution for data security and data privacy in a single integrated platform. It protects your sensitive data by processing data techniques of your choice, including encryption, tokenization, and masking. Also, Mask your sensitive data using a range of methods that provide adequate security while maintaining data usability. 
+
+UPI
+A Unified Payment Interface (UPI) is a smartphone application that allows Users to transfer money between bank accounts through mobile device. This interface facilitates inter-bank peer-to-peer and person-to-merchant transactions.
+
+What is Azure/SecOps?
+Azure is a cloud computing platform and an online portal that allows you to access and manage cloud services and resources provided by Microsoft. These services and resources include storing your data and transforming it, depending on your requirements. 
+
+Role of Azure: Microsoft Azure is a cloud computing platform that enables customers to control a range of cloud resources and services, including data transformation, data storage, and many more.
+>>>>>>>>>>>>>>>>>>>
+
+What is CNAPP?
+A cloud native application protection platform (CNAPP) is a security and compliance solution that helps teams build, deploy, and run secure cloud native applications in today's heavily automated, dynamic public cloud environments.
+
+A cloud native application protection platform (CNAPP) is a security and compliance solution that helps teams build, deploy, and run secure cloud native applications in today's heavily automated, dynamic public cloud environments.
+
+What are the benefits of Cnapp?
+Comprehensive Risk Coverage. With a CNAPP, you minimize the risk of forgetting to secure certain layers or facets of your workloads. 
+Centralized Management. 
+Risk Prioritization. ...
+Future-Proof Security.
+
+>>>>>>>
+
+Six Sigma
+
+Six Sigma is a management system and statistical analysis tool for streamlining business processes via the elimination of defects. By implementing Six Sigma methodology, organizations can improve and sustain quality, eliminate waste and increase profit.
+
+>>>>
+
+Agile Methodology
+>>>
+Agile is an Iterative Software Development Methodology that promotes collaboration and process adaptability throughout the project.  The Agile methodology promotes the continuous interaction of the development and testing during the SDLC process of any project.  This methodology allows much communication between the customers, developers, testers, and managers.
+Different Frameworks are in Agile.
+	Scrum – (For Development Projects) Scrum is simple and powerful framework for Teams and allows teams of people to develop complex products in environments of uncertainty and change. 
+	Kanban – (Maintenance and Support Projects) Kanban is a workflow management method for defining, managing, and improving services that delivers knowledge work. It helps you to visualize your work
+
+
+The Waterfall Model is a linear application development model that uses rigid phases: When one phase ends, the next begins. Steps occur in sequence, and, if unmodified, the model does not allow developers to go back to previous steps (hence “waterfall”: Once water falls down, it cannot go back up).
+
+
+>>>>>>
+GOOD LUCK!! 
+
+to control aspects of their employee's work & decision-making to an extreme degree.
+
+
+https://www.youtube.com/watch?v=VIBWdLLq9kQ
+PSW: sparrowhunt88@gmail.com & Steveaustin@88/GoldensparrowTech/ Goldensparrow88
+
+Markdown: It is easy to use Markup language that lets you write simple text which can be converted to HTML easily. Also it is used in many places, such as GitHub, README files, Reddit comments and blogs. 
+https://www.youtube.com/watch?v=_PPWWRV6gbA &                                                                              (Obsidan) https://www.youtube.com/watch?v=cBzc5r-FNW0   
+
+
+HTML Basic - Advanced
+https://www.youtube.com/watch?v=FYErehuSuuw
+https://codepen.io/pen/
+
+
+
+
+
+
+
+
+
+
+
+
+
+OH document: hlccd updates will take time as it will trigger approval with ecompliance team also, will keep you posted. 
+
+FS DS document: We have sent an email to our Architecture to update the design document, Once it is updated then only we can update.
+
+Updated my CTask. VLT training for MS Teams Etiquette
+
+HCl Training parallely
+
+hlccd updates will take time as it will trigger approval with ecompliance team also, will keep you posted.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+
+this.syncAnnotScan();  
+var annots = this.getAnnots();  
+for (var i = 0; i < annots.length; i++)  
+   {if (annots[i].lock == false)
+    { var date = annots[i].modDate;
+      annots[i].lock = true;
+      annots[i].readOnly = true;
+      annots[i].modDate = date;
+    }
+   }
+
+
+
+Inspiring tutorial video for GitHub- Bravo .. 👍. Your explanation seems to be an Architect/Tech SME's and love your crystal clear voice. Also, your Ad message was tricky in between session. 
+Please share the GitHub ppt to sparrowhunt88@gmail.com.  
+
+GITHUB: Download Git and Open command prompt 
+
+git config --global user.name "errormakesclever"
+git config --global user.email "sparrowhunt88@gmail.com"
+
+
+
+
+
+
+Adhering to Good Documentation Practices  (GDP) and Document Life Cycle/Quality Management System (QMS) guidelines to ensure technical documentation complies with established standards, meets customer expectations, and clearly conveys complex information to the intended audience. At the same time, addressing audit findings by resolving instances of non-compliance and ensuring consistency in process adherence across technical documentation."
+
+Ensure compliance with documentation standards by consistently applying Good Documentation Practices, process guidelines, and Document Life Cycle principles. Effectively address audit findings by resolving non-compliance and process inconsistencies, while maintaining accuracy, efficiency, and high quality in technical documentation (SecOps) activities.
+
+Ensure 100% completion of all mandatory NVS and HCL mandatory trainings within the stipulated timelines, and successfully achieve at least one role-related certification to strengthen domain expertise and compliance readiness.
+
+Ensured timely delivery of high-quality technical documentation by addressing customer feedback, maintaining compliance with BDP processes, and applying correct templates, formatting, and proofreading standards to clearly communicate complex technical concepts.
+
+Adhere fully to the organization's Return to Office policy by following your assigned attendance schedule, being present on designated in-office days, and contributing to a collaborative and productive workplace culture.
+
+Consistently facilitate effective knowledge sharing and management by ensuring timely review and delivery of technical documents under all circumstances, while incorporating stakeholder feedback into the documentation process. Maintain a strong focus on accuracy, ensuring that documented processes are precise, up-to-date, and aligned with current practices and strategies in Knowledge Management.
+
+
+Co-ordinate with Authors/Architects and Technical SME's to gather requirements inputs & changes for SecOps technical documentation activities and also provide facilitation about the documentation process. Collaborates with Stakeholders to identify the areas that requires improvement like contribution of ideas, information sharing, smooth workflow, requests and inquiries are addressed quickly/effectively.
+
+Maintain a unique approach with technical team and stakeholders in reviewing the SecOps technical documents (IQ', Work Instruction, SOP', FS, DS & OH) to deliver high-quality technical documents within timeline.
+
+
+>>>
+
+Contributed significantly to the timely delivery of high-quality SecOps documentation by collaborating with Technical Team members, Architects/Authors, Technical SMEs, OQM, and other Stakeholders to gain an in-depth understanding of SecOps concepts. Developed a KBA template for SecOps documents, prepared process flow charts (BPMN diagrams) using Adonis Tool and created video tutorials for PPT. Suggested to have a Document Management Handbook for SecOps project to improve documentation practices and also involved in deployment of ISC repository activities "Lifecycle Document Repositories Advanced Search". Proactively seeks to enhance skills by learning advanced technical writing tools like Madcap Flare, Adobe FrameMaker, Git/GitHub, and RoboHelp. 
+
+>>
+
+"Played a key role in delivering high-quality SecOps documentation within timelines by collaborating closely with Technical Team members, Architects, Technical SMEs, OQM, and other stakeholders to gain a thorough understanding of SecOps concepts. Proposed a KBA template for SecOps documents, reviewed process flow charts for the Technical Writer role, and created video tutorials for PPT. Recommended the development of a Document Management Handbook for SecOps to enhance documentation practices. Planning to further enhance skills by learning advanced technical writing tools such as MapCap, Flare, and RoboHelp."
+
+
+
